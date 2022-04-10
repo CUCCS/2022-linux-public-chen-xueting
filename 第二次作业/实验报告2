@@ -1,0 +1,37 @@
+# 2022-linux-public-chen-xueting
+2022-linux-public-chen-xueting created by GitHub Classroom
+# Linux 第二次实验报告
+
+***
+
+1.有关tmux，tshark的安装查看与卸载
+    
+    URL：https://asciinema.org/a/pJrtlliprcyw8tiMbHWkVoMs7
+
+2.找到 /tmp 目录及其所有子目录下，文件名包含 666 的所有文件
+找到 /tmp 目录及其所有子目录下，文件内容包含 666 的所有文件
+
+    URL:https://asciinema.org/a/1LcVegDQdV2DQ3uKAVDKC5rOC
+
+|  文件名包含 666 的所有文件   | 文件内容包含 666 的所有文件  |
+|  ----  | ----  |
+| ./test-2532/test-2532-21666 | test-8269/test-8269-20222 |
+| ./test-26120/test-26120-3666| test-13532/test-13532-27370 |
+|./test-12549/test-12549-27666|tmpiam4x4vz-ascii.cast
+| ./test-15666                |tmpr9bylthk-ascii.cast
+
+3.文件的解压缩
+
+    URL:https://asciinema.org/a/kNHExsD4w6qnYaY7LN215Xnj7
+    
+![压缩文件](img/压缩文件.png)
+![解压文件](img/解压文件.png)
+4.硬件信息获取
+
+    URL：https://asciinema.org/a/57Z05uPo6HBP2NKZAVfVcKar2
+
+|CPU信息|内存大小|硬盘数量|硬盘容量|
+|  :----:|  :----:| :----: |:----: |
+|Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz | MemTotal:        1000316 kB | 9 |     *   |
+
+
